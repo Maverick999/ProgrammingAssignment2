@@ -1,4 +1,4 @@
-## The functions makeCacheMatrix takes a matrix input and stores it as a 
+## The function makeCacheMatrix takes a matrix input and stores it as a 
 ## list. The function cacheSolve finds the inverse of the matrix entered in 
 ## makeCacheMatrix. However, before finding the inverse function, cacheSolve
 ## checks if the inverse was already found, and if so, returns the inverse 
